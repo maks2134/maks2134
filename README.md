@@ -1,4 +1,4 @@
-<h1 align="center">👋 Приветствую в моём профиле!</h1>
+<h1 align="center">👋 Hi there!</h1>
 
 ## 🚀 About me
 💻 **Full-stack Developer:** focus on Go и Next  
