@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there!</h1>
 
 ## 🚀 About me
-💻 **Full-stack Developer:** focus on Go и Next  
+💻 **Full-stack Developer:** focus on Go and Next  
 🎯 **Specialization**: microservices, APIs,
 
 ## 🛠 Technologies and tools
