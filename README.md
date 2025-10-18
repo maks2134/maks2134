@@ -2,13 +2,14 @@
 
 ## 🚀 About me
 💻 **Full-stack Developer:** focus on Go and Next  
-🎯 **Specialization**: microservices, APIs,
+🎯 **Specialization**: microservices, APIs
 
 ## 🛠 Technologies and tools
 
 ### Backend
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
