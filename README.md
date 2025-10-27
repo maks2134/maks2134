@@ -2,7 +2,7 @@
 
 ## 🚀 About me
 💻 **Full-stack Developer:** focus on Go and Next  
-🎯 **Specialization**: microservices, APIs, auth methods
+🎯 **Specialization**: microservices, APIs
 
 ## 🛠 Technologies and tools
 
