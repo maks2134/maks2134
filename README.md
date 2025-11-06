@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there!!!</h1>
+<h1 align="center">👋 Hi there!</h1>
 
 ## 🚀 About me
 💻 **Full-stack Developer:** focus on Go and Next  
@@ -28,6 +28,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📫 Contacts
